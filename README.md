@@ -7,5 +7,17 @@ The game is shown in 2 interfaces, a CLI (command line interface) & a GUI (graph
 <h2>Technologies</h2>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
+<h2>Installation</h2>
+
+Ensure git is installed first before cloning the repo
+
+```bash
+git clone https://github.com/Engombe23/Connect-4.git
+```
+Type the following command to run the program
+
+```bash
+python connect4.py
+```
 <h2>Demo</h2>
 <a href="https://youtu.be/YyUUsa56LeM">Connect 4 Demo</a>
