@@ -17,7 +17,7 @@ git clone https://github.com/Engombe23/Connect-4.git
 Type the following command to run the program
 
 ```bash
-python connect4.py
+python3 connect4.py
 ```
 <h2>Demo</h2>
 <a href="https://youtu.be/YyUUsa56LeM">Connect 4 Demo</a>
