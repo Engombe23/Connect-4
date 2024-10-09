@@ -9,12 +9,25 @@ The game is shown in 2 interfaces, a CLI (command line interface) & a GUI (graph
 
 <h2>Installation</h2>
 
-Ensure git is installed first before cloning the repo
+<h3>Python</h3>
+
+Link to follow documentation for installing Python on any operating system: https://www.python.org/downloads/
+
+<h3>Git</h3>
+
+Ensure Git is installed first before cloning the repository
+
+Link to follow documentation for installing Git on any operating system: https://github.com/git-guides/install-git
+
+<h4>Clone the repository</h4>
 
 ```bash
 git clone https://github.com/Engombe23/Connect-4.git
 ```
-Type the following command to run the program
+
+<h2>Running Connect 4</h2>
+
+Copy the following command to run the program
 
 ```bash
 python3 connect4.py
