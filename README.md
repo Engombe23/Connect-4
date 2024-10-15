@@ -1,6 +1,6 @@
 # Connect 4
 
-<p>A demo of the memorable childhood game, Connect 4.
+<p>A project I worked on in my second year of university with my classmate developing Connect 4.
 
 The game is shown in 2 interfaces, a CLI (command line interface) & a GUI (graphical user interface).</p>
 
