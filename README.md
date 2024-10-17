@@ -1,8 +1,9 @@
 # Connect 4
 
-<p>A project I worked on in my second year of university with my classmate developing Connect 4.
-
-The game is shown in 2 interfaces, a CLI (command line interface) & a GUI (graphical user interface).</p>
+<h2>Description</h2>
+<p>A project I worked on in my second year of university with my classmate, <a href="https://github.com/mohamedcisman">Mohamed Cisman</a>, in developing Connect 4.</p>
+<p>We learned how to develop the infamous game in two different user interfaces: the standard command line interface and a graphical user interface.</p>
+<p>To enable the game to run in a GUI, we used the Tkinter package within Python to display the GUI and add key features such as the board and the pieces.</p>
 
 <h2>Technologies</h2>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
